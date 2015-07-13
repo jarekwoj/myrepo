@@ -55,4 +55,5 @@ public class SampleWebJspApplicationTests {
 				entity.getBody().contains("/resources/text.txt"));
 	}
 
+	//change test too
 }
